@@ -1,4 +1,4 @@
-                                                              HOTEL MANAGMENT PROJECT (PYTHON)
+                                                     HOTEL MANAGMENT PROJECT (PYTHON)
 Submitted my :
 Mann Sharma      2210990555
 Manmeet Kaur     2210990554
